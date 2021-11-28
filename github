@@ -1,11 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>github</title>
+<style>
+body {
+  background-image: url('david bowie.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
 </head>
 <body>
 
-<h1>welcome</h1>
+<h2>Background Stretch</h2>
+
+<p>Set the background-size property to "100% 100%" and the background image will be stretched to cover the entire element, in this case the body element.</p>
+
 </body>
 </html>
->
+
